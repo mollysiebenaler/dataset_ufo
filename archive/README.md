@@ -1,7 +1,9 @@
 # dataset_ufo
 Documentation of cleaning UFO Datasets in Github for EOW 12. 
 
-# dataset_imdb/archive
+<<<<<< 4-document-the-dataset-and-the-project
+# dataset_ufo/archive
+>>>>>> main
 ### The archive folder contains: 
  - **data that was used in the making of the final dataset**
    - *smaller, individual files that were later integrated either horizontally or vertically*
