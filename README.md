@@ -1,5 +1,5 @@
 # dataset_ufo
-Documentation of cleaning UFO Datasets in Github for EOW 12. 
+Documentation of cleaning UFO Datasets in R Studio in Github for Data Wrangling EOW 12. 
 
 ## Where did the data come from?
 The data came form NUFORC reports.
