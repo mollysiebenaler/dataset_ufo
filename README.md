@@ -1,7 +1,7 @@
 # dataset_ufo
 Documentation of cleaning UFO Datasets in Github for EOW 12. 
 
-# Where did the data come from?
+## Where did the data come from?
 The data came form NUFORC reports.
 Hyperlinks:
 | Month | Link |
@@ -17,10 +17,10 @@ Hyperlinks:
 | 2020/02 | https://nuforc.org/subndx/?id=e202002
 | 2020/01 | https://nuforc.org/subndx/?id=e202001
 
-# Current status of the data
+## Current status of the data
 The data is all currently in the root folder, and has been merged.
 
-# Data Dictionary
+## Data Dictionary
 | Name | Data type | Description |
 | ----------- | ----------- | ---------------------------------------- |
 | details | character | link to ufo sighting on NUFORC website |
@@ -34,8 +34,9 @@ The data is all currently in the root folder, and has been merged.
 | posted_date | character | date when UFO sighting reported was posted |
 | image |  | image of UFO sighting |
 
-# To Do List
-- All issues resolved.
+## Change Log
+05/05 -- Updated README.md
+
 
 
 
