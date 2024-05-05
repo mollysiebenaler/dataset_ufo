@@ -23,7 +23,7 @@ Hyperlinks:
 ---
 
 ## Current status of the data
-The data is all currently in the root folder, and has been merged.
+The data is all currently in the root folder, and has been merged. To access the clean code, please download this file.
 
 ---
 
